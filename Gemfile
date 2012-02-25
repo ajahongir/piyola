@@ -18,6 +18,8 @@ end
 
 gem 'jquery-rails'
 
+gem 'spree_i18n', :git => 'git://github.com/spree/spree_i18n.git'
+
 # To use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
 
