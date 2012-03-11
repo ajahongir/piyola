@@ -22,6 +22,12 @@ GIT
       savon
       spree_core (~> 1.0.0.rc1)
 
+GIT
+  remote: git@github.com:ajahongir/spree_piyola_theme.git
+  revision: ca2f362037eeb0a19a55f1f758ce6d1f093c5ffe
+  specs:
+    spree_piyola_theme (0.1.0)
+
 GEM
   remote: http://rubygems.org/
   specs:
@@ -248,6 +254,7 @@ DEPENDENCIES
   sass-rails (~> 3.1.5)
   spree
   spree_i18n!
+  spree_piyola_theme!
   spree_skrill!
   spree_usa_epay!
   turn (= 0.8.2)
