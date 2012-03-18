@@ -1,5 +1,5 @@
 source 'http://rubygems.org'
-
+source 'git://github.com/ajahongir/spree_piyola_theme.git'
 gem 'rails', '3.1.3'
 
 # Bundle edge Rails instead:
@@ -43,5 +43,6 @@ gem 'spree_skrill', :git => 'git://github.com/spree/spree_skrill.git', :ref => '
 
 
 #theme
-gem 'spree_piyola_theme', :git => 'git@github.com:ajahongir/spree_piyola_theme.git'
-
+#gem 'spree_rdr_theme', :git => 'git://github.com/ajahongir/spree_piyola_theme.git'
+gem 'spree_rdr_theme', :git => 'git://github.com/spree/spree_rdr_theme.git'
+#gem 'spree_piyola_theme' spurce 'git@github.com:ajahongir/spree_piyola_theme.git'
